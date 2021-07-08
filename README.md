@@ -1,3 +1,2 @@
 # staygo
-Hi I'm W.<br>
-Thank you.
+Hi I'm W.
